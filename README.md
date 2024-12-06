@@ -56,4 +56,4 @@ You can install the dependencies using the `requirements.txt` file.
 3. Select **Grayscale** as the manipulation technique.
 4. See the processed image with object detection bounding boxes and the grayscale effect applied.
 
-## Project Structure
+
