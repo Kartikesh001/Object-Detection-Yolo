@@ -5,11 +5,12 @@ This project provides an interactive web tool for object detection and segmentat
 
 ## Features
 - **YOLO Object Detection**: Choose between YOLOv5 or YOLOv8 for detecting and segmenting objects in the uploaded image.
-- **Image Manipulation**: Apply image manipulation techniques like:
+- **Image Manipulation**: Applied image manipulation techniques like:
   - Grayscale Conversion
   - Edge Detection (Canny)
   - Blur (Gaussian)
 - **Interactive UI**: Built with **Streamlit**, providing a smooth experience for uploading images, selecting models, and applying manipulations.
+- **Download Processed Image**: User can download the final processed image with accordance to the Image manipulation.
 
 ## Requirements
 The application requires the following Python libraries:
